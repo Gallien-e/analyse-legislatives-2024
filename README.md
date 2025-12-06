@@ -23,7 +23,7 @@ Considérant la nature du projet, le code a été réalisé dans une optique "on
 
 ## Résultat 
 
-🥇 Nous pouvons applaudir le maire de la 3e circonscription d'Ardèche, M. Fabrice BRUN, qui a remporté son siège avec seulement 35 voix de plus que le seconde candidat, sur un total de 58 918 voix exprimées. Cela représente une avance relative de seulement 0,06% des voix exprimées :
+🥇 Nous pouvons applaudir le maire de la 3e circonscription d'Ardèche, M. Fabrice BRUN, qui a remporté son siège avec seulement 35 voix de plus que le second candidat, sur un total de 58 918 voix exprimées. Cela représente une avance relative de seulement 0,06% des voix exprimées :
 
 | # | Candidat             | Nuance | Voix  | % Inscrits | % Exprimés | Élu(e) |
 |---|----------------------|--------|-------|------------|-------------|--------|
