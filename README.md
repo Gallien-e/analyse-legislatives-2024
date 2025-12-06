@@ -3,9 +3,11 @@
 
 # Quels candidats ont gagné de justesse en 2024 ?
 
+Stack technique : Python, Pandas, Requests, BeautifulSoup, Jupyter Notebook
+
 ## Contexte
 
-Ce mini-projet a pour unique but de répondre à la question suivante : qui sont les candidats aux élections législatives de 2024 qui ont remporté leur siège avec la plus petite marge d'avance sur le second candidat ?
+Ce projet a pour unique but de répondre à la question suivante : qui sont les candidats aux élections législatives de 2024 qui ont remporté leur siège avec la plus petite marge d'avance sur le second candidat ?
 
 Considérant la nature du projet, le code a été réalisé dans une optique "one-shot" : sans stocker les données intermédiaires, sans visualisation poussée, uniquement pour répondre à la question posée.
 
